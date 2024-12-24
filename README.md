@@ -1,2 +1,2 @@
-# belajar-cicd
-Tugas CC/Reivanza Laksono/1101210320
+# belajar-cicd-pemula
+Repositori untuk belajar membuat CI/CD lewat Github Actions (dari video youtube https://youtube.com/user/girikuncoro))
